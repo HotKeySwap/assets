@@ -514,6 +514,16 @@
             ]
         },
         {
+            "asset": "c60_t0x018dd3a0dd7f213cc822076b3800816d3ce1ed86",
+            "type": "ERC20",
+            "address": "0x018dd3a0dd7f213cc822076b3800816d3ce1ed86",
+            "name": "HotKeySwap",
+            "symbol": "HOTKEY",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/VQ496tg/logo.jpg",
+            "pairs": []
+        },
+        {
             "chainId": 1,
             "asset": "c60_t0x0000000000085d4780B73119b644AE5ecd22b376",
             "type": "ERC20",
